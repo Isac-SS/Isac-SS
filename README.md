@@ -27,7 +27,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.Js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![FIGMA](https://img.shields.io/badge/-FIGMA-0D1117?style=for-the-badge&logo=FIGMA&labelColor=0D1117)&nbsp;  
 
   
